@@ -9,6 +9,6 @@ I'm Muhammad Qaseem, a passionate individual with a keen interest in Cyber Secur
 - 💬 Feel free to ask me anything related to cybersecurity, digital forensics, or any other technology-related topics.
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/muhammad-qaseem/) and explore opportunities to collaborate.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: One of my favorite quotes is "When you have eliminated all which is impossible, then whatever remains, however improbable, must be the truth." - Sherlock Holmes.
+- ⚡ Fun fact: I hack for good! Embracing the power of technology, I channel my skills towards positive impact and protecting the digital realm. Together, let's hack our way to a better and safer world!
 
 Thank you for visiting my profile. Feel free to explore my repositories and connect with me on LinkedIn. Let's learn and grow together in the exciting world of cybersecurity! 🚀

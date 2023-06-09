@@ -9,8 +9,11 @@
 Let's make the digital world safer together! Explore my repositories and feel free to reach out.
 
 <p align="center">
-  <img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWY4MjE1MDJiODcyMzhkNDRiMzM5NjgwNWUyMGVkMjhkZWUyZjU1MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif">
+  <a href="https://www.github.com/CaseemHaxx">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWY4MjE1MDJiODcyMzhkNDRiMzM5NjgwNWUyMGVkMjhkZWUyZjU1MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif">
+  </a>
 </p>
+
 
 <h1 align="left">
   💬 Get in touch!

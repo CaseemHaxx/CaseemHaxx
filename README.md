@@ -28,7 +28,7 @@ Let's make the digital world safer together! Explore my repositories and feel fr
 <a href="https://www.instagram.com/caseem._.haxx">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-<a href="https://medium.com/@Rorsch4ch">
+<a href="https://medium.com/@R0r5ch4ch">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a>
 <a href="https://tryhackme.com/p/Rorsch4ch">

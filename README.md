@@ -13,11 +13,12 @@ Let's make the digital world safer together! Explore my repositories and feel fr
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWY4MjE1MDJiODcyMzhkNDRiMzM5NjgwNWUyMGVkMjhkZWUyZjU1MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif">
   </a>
 </p>
-
+&nbsp;&nbsp;
 
 <h1 align="left">
   💬 Get in touch!
 </h1>
+&nbsp;&nbsp;
 <p align="center">
 <a href="https://pk.linkedin.com/in/Muhammad-Qaseem/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
@@ -35,8 +36,25 @@ Let's make the digital world safer together! Explore my repositories and feel fr
   <img height="50" src="https://assets.tryhackme.com/img/favicon.png"/>
 </a>
 </p>  
-  
-<h2> 📈 &nbsp;My GitHub History!</h2>
+&nbsp;
+<h1 align="left">
+  🔮 Sapience!
+</h1>
+&nbsp;
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FF700&center=true&random=false&width=435&lines=WHAT+YOU+SEEK+IS+SEEKING+YOU+!!!" alt="Typing SVG">
+  </a>
+</p>
 
+<div align="center"> <img src="https://raw.githubusercontent.com/CaseemHaxx/CaseemHaxx/main/kyubey.gif" height="90" />
+</div>
+
+&nbsp;
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F1&center=true&random=false&width=435&lines=WHAT+YOU+SEEK+IS+SEEKING+YOU+!!!" alt="Typing SVG">
+  </a>
+</p>

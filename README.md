@@ -23,16 +23,16 @@ Let's make the digital world safer together! Explore my repositories and feel fr
 <a href="https://pk.linkedin.com/in/Muhammad-Qaseem/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://twitter.com/Rorschach_0x01">
+<a href="https://x.com/Caseem_0x01">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
-<a href="https://www.instagram.com/caseem._.haxx">
+<a href="https://www.instagram.com/jafri._.haxx">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-<a href="https://medium.com/@Rorsch4ch">
+<a href="https://caseem-haxx.medium.com">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a>
-<a href="https://tryhackme.com/p/Rorsch4ch">
+<a href="https://tryhackme.com/p/CaseemHaxx">
   <img height="50" src="https://assets.tryhackme.com/img/favicon.png"/>
 </a>
 </p>  
